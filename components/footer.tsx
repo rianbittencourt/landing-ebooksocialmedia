@@ -15,7 +15,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-4 gap-8">
           <div className="space-y-4">
             <div className="text-2xl font-bold text-white">
-              Dark<span className="text-purple-400">Book</span>
+              Landing<span className="text-purple-400">Book</span>
             </div>
             <p className="text-gray-400 leading-relaxed">
               Transformando pessoas comuns em influenciadores lucrativos.
